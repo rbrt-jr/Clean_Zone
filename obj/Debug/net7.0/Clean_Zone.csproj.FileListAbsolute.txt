@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\Clean_Zone\bin\Debug\net7.0\Clean_Zone.exe
+C:\Users\rober\source\repos\Clean_Zone\bin\Debug\net7.0\Clean_Zone.deps.json
+C:\Users\rober\source\repos\Clean_Zone\bin\Debug\net7.0\Clean_Zone.runtimeconfig.json
+C:\Users\rober\source\repos\Clean_Zone\bin\Debug\net7.0\Clean_Zone.dll
+C:\Users\rober\source\repos\Clean_Zone\bin\Debug\net7.0\Clean_Zone.pdb
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.AssemblyInfo.cs
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.dll
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\refint\Clean_Zone.dll
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.pdb
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\Clean_Zone.genruntimeconfig.cache
+C:\Users\rober\source\repos\Clean_Zone\obj\Debug\net7.0\ref\Clean_Zone.dll
